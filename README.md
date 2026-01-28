@@ -52,19 +52,10 @@ This project demonstrates practical file handling, automation, and error handlin
 
 ## Output
 
-After running, your folder will be organized like this:
+The script creates folders like Images, Videos, Documents, etc.,  
+and moves files into their respective categories.  
+A log file (organizer.log) is also generated.
 
-Target Folder/
-│
-├── Images/
-├── Videos/
-├── Documents/
-├── Music/
-├── Archives/
-├── Others/
-└── organizer.log
-
-The organizer.log file stores all file movement details with timestamps.
 
 ## What I Learned
 - File handling using Python
