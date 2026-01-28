@@ -1,9 +1,0 @@
-\textbf{Taxi Fare Forecasting System} \hfill Jul 2025 -- Aug 2025  
-\begin{itemize}
-    \item Engineered a scalable big-data pipeline processing \textbf{10M+ NYC taxi records} using \textbf{Hadoop}, \textbf{HDFS}, and \textbf{PySpark}.
-    \item Performed in-depth \textbf{EDA} and feature engineering using \textbf{Python} (\textbf{pandas}, \textbf{NumPy}, \textbf{Seaborn}) to uncover key trip and fare patterns.
-    \item Trained and tuned ML models (\textbf{XGBoost}, \textbf{LightGBM}, \textbf{CatBoost}) achieving \textbf{86\% prediction accuracy}.
-    \item Built automated ETL workflows and optimized Spark jobs, reducing processing time by \textbf{27\%}.
-    \item Designed interactive \textbf{Tableau} and \textbf{Streamlit} dashboards for real-time fare insights and prediction visualization.
-    \item Delivered an end-to-end \textbf{data engineering + ML pipeline}, from raw data ingestion to deployment-ready prediction tool.
-\end{itemize}
