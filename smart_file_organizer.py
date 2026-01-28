@@ -14,7 +14,7 @@ FILE_TYPES = {
     "Archives": [".zip", ".rar"]
 }
 
-LOG_FILE = "organizer.log"
+LOG_FILE = os.path.join(TARGET_FOLDER, "organizer.log")
 
 
 def write_log(message):
